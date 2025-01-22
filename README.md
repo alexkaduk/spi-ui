@@ -1,1 +1,1 @@
-# spi-ui
+# SPI-UI
